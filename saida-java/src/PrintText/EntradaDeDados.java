@@ -1,4 +1,4 @@
-// 7. Entrada de dados (ler do usuário)
+package PrintText;// 7. Entrada de dados (ler do usuário)
 
 import java.util.Scanner;
 public class EntradaDeDados {

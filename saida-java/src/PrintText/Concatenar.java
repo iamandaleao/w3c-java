@@ -1,4 +1,4 @@
-// 6. Concatenar (juntar textos e variáveis)
+package PrintText;// 6. PrintText.Concatenar (juntar textos e variáveis)
 
 class Concatenar {
     public static void main(String[] args) {

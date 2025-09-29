@@ -1,4 +1,4 @@
-// 1. Estrutura mínima de um programa Java:
+package PrintText;// 1. Estrutura mínima de um programa Java:
 
 public class EstruturaBasica {
     public static void main(String[] args) {
