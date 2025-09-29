@@ -11,9 +11,10 @@ public class Numero {
 // Podemos usar o println() para imprimir os números entretanto, diferentemente do texto, não colocamos números entre aspas duplas
 
 
-// Podemos também realizar cálculos matemáticos dentro do println():
-
 /*
-System.out.println(3 +3);
-System.out.println(2*5);
+Podemos também realizar cálculos matemáticos dentro do println():
+Exemplos:
+
+System.out.println(3 + 3);
+System.out.println(2 * 5);
  */
