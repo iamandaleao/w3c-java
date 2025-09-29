@@ -1,0 +1,13 @@
+// Imprimir texto - exemplo:
+System.out.println("Hello World!");
+
+// Pode adicionar quantos println quiser, sendo adicionada cada linha para cada método:
+System.out.println("Hello World!");
+System.out.println("I am learning Java");
+System.out.println("It is awesome!");
+
+//Aspas duplas: O texto deve ser colocado entre aspas duplas "". Se esquecer as aspas duplas, ocorrerá um erro:
+
+// Exemplo:
+System.out.println("This sentence will work"); // imprime o texto na tela (string entre aspas duplas)
+System.out.println(This sentence will produce an error); // erro: faltam aspas, Java não reconhece como texto

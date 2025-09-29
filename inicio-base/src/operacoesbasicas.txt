@@ -1,0 +1,38 @@
+1. Para fazer commit:
+Abra a janela de commit existe 2 formas:
+ctrl + k (Windows/Linux)
+cmd + k (Mac)
+Após seleciona os arquivos
+
+P/ ver o historico é: Git - show history ou clique com botão na pasta/projeto - git - show history.
+
+
+
+2. Comentários no código:
+// Comentário de uma linha
+
+/*
+   Comentário de várias linhas
+   Pode explicar algo mais longo
+*/
+
+
+3. Texto (String) e Caractere (char)
+"entre aspas duplas" → texto (pode ter várias letras, números e símbolos).
+'entre aspas simples' → um caractere só (tipo 'A', '9').
+
+
+4. Variáveis básicas (armazenar valores)
+int numero = 10;              // número inteiro
+double preco = 5.99;          // número com casas decimais
+char letra = 'A';             // caractere
+String nome = "Leão";         // texto
+boolean ativo = true;         // verdadeiro ou falso
+// Esses são os tipos primitivos mais usados no início.
+
+
+5. Operações básicas
+int soma = 2 + 3;             // soma → 5
+int multiplicacao = 4 * 5;    // multiplicação → 20
+int divisao = 10 / 2;         // divisão → 5
+int resto = 10 % 3;           // resto da divisão → 1
